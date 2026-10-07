@@ -1,15 +1,30 @@
 {
-  "version": 1791389999,
-  "updated_at": "2026-10-07T19:19:59",
+  "version": 1791390000,
+  "updated_at": "2026-10-07T19:20:00",
   "donors": [
     {
       "name": "точно не даблкул",
-      "points": 185,
+      "points": 1848,
       "prizes": []
     },
     {
       "name": "nscr",
-      "points": 91,
+      "points": 901,
+      "prizes": []
+    },
+    {
+      "name": "GetzioNotts",
+      "points": 150,
+      "prizes": []
+    },
+    {
+      "name": "KawaiiBarbos",
+      "points": 100,
+      "prizes": []
+    },
+    {
+      "name": "Lilit_Asami",
+      "points": 75,
       "prizes": []
     },
     {
@@ -18,28 +33,13 @@
       "prizes": []
     },
     {
-      "name": "Lilit_Asami",
+      "name": "Sprattus",
       "points": 30,
       "prizes": []
     },
     {
-      "name": "GetzioNotts",
-      "points": 15,
-      "prizes": []
-    },
-    {
-      "name": "KawaiiBarbos",
-      "points": 10,
-      "prizes": []
-    },
-    {
-      "name": "Sprattus",
-      "points": 3,
-      "prizes": []
-    },
-    {
       "name": "Котироель",
-      "points": 2,
+      "points": 20,
       "prizes": [
         {
           "name": "Значек на 8 дней",
@@ -57,7 +57,7 @@
     {
       "name": "Значек на 8 дней",
       "price": 50,
-      "quantity": 0
+      "quantity": "∞"
     }
   ],
   "superprizes": []
