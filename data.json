@@ -1,7 +1,12 @@
 {
-  "version": 1791407746,
-  "updated_at": "2026-10-08T00:15:46",
+  "version": 1791407776,
+  "updated_at": "2026-10-08T00:16:16",
   "donors": [
+    {
+      "name": "я",
+      "points": 250,
+      "prizes": []
+    },
     {
       "name": "точно не даблкул",
       "points": 185,
@@ -46,11 +51,6 @@
           "date": "2026-10-02"
         }
       ]
-    },
-    {
-      "name": "я",
-      "points": 0,
-      "prizes": []
     }
   ],
   "prizes": [
@@ -60,26 +60,5 @@
       "quantity": "∞"
     }
   ],
-  "superprizes": [
-    {
-      "name": "Караоке-стрем",
-      "target": 500,
-      "collected": 250,
-      "status": "open",
-      "contributors": [
-        {
-          "name": "я",
-          "points": 125
-        },
-        {
-          "name": "я",
-          "points": 124
-        },
-        {
-          "name": "я",
-          "points": 1
-        }
-      ]
-    }
-  ]
+  "superprizes": []
 }
