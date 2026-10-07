@@ -1,6 +1,6 @@
 {
-  "version": 1791379292,
-  "updated_at": "2026-10-07T16:21:32",
+  "version": 1791379303,
+  "updated_at": "2026-10-07T16:21:43",
   "donors": [
     {
       "name": "точно не даблкул",
@@ -57,7 +57,7 @@
     {
       "name": "Значек на 8 дней",
       "price": 50,
-      "quantity": 0
+      "quantity": "∞"
     }
   ],
   "superprizes": []
