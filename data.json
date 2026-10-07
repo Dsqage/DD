@@ -1,6 +1,6 @@
 {
-  "version": 1791407566,
-  "updated_at": "2026-10-08T00:12:46",
+  "version": 1791407584,
+  "updated_at": "2026-10-08T00:13:04",
   "donors": [
     {
       "name": "точно не даблкул",
@@ -55,5 +55,13 @@
       "quantity": "∞"
     }
   ],
-  "superprizes": []
+  "superprizes": [
+    {
+      "name": "Караоке-стрем",
+      "target": 500,
+      "collected": 0,
+      "status": "open",
+      "contributors": []
+    }
+  ]
 }
